@@ -1,4 +1,4 @@
-# 🏆 德州赛事APP源码 | 类似CPG | 在线比赛+酒店预定
+# 🏆 德州赛事APP源码 | Texas Hold’em Poker Platform | 德州平台 |  类似CPG | 在线比赛+酒店预定
 
 > **支持大陆地区在线德州比赛 | 赛事管理 + 酒店预定 + 完整比赛系统**
 
@@ -26,6 +26,29 @@
 ✅ 德州牌桌 ✅ 保险系统 ✅ 战绩统计
 ✅ 商城系统 ✅ 充值系统 ✅ 客服系统
 
+## 🧠 项目定位 / Project Overview
+
+本项目是一套完整的德州扑克游戏平台源码  
+This is a full-featured Texas Hold’em poker platform  
+
+支持多种玩法与系统：  
+
+- 现金桌 / Cash Game  
+- 锦标赛 / Tournament  
+- SNG / Sit & Go  
+
+
+👉 可用于商业运营  
+👉 Ready for commercial deployment  
+
+---
+
+## ⚙️ 核心功能 / Features
+
+- 实时多人对战 / Real-time multiplayer  
+- 高性能服务器架构 / High-performance server  
+- 多玩法支持 / Multiple game modes  
+- 可扩展平台 / Scalable platform  
 
 ## 📸 界面预览
 
