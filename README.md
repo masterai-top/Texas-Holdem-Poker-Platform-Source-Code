@@ -1,19 +1,31 @@
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+
+# 线上与线下德州扑克赛事平台|德州竞技赛源码|德州源码
+
 🔥 Commercial Texas Hold’em Poker Platform  
 👉 Multiplayer + Club + Tournament + AI + Game Server  
-👉 Ready to Launch | High Profit System  
-# 🏆 Texas Hold’em Poker Platform |德州赛事APP源码 |  德州竞技赛|德州源码| 德州平台 |  德州扑克 | 在线比赛+酒店预定|德州竞技赛源码
+## 线上线下赛事应用 | Texas-Holdem-Poker-Platform-Source-Code
+
+
+> 项目功能、性能、运营记录与部署能力应结合当前版本独立验证；许可证和第三方素材范围以仓库文件为准。
+
 
 > **支持大陆地区在线德州比赛 | 赛事管理 + 酒店预定 + 完整比赛系统**
+
 
 [![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
 [![Platform](https://img.shields.io/badge/平台-iOS%20%7C%20Android-green)]()
 [![Language](https://img.shields.io/badge/服务端-C%2B%2B-red)]()
 
+
 ---
+
 
 ## ✨ 核心特色 | Unique Features
 
+
 本项目是**国内少数**支持完整赛事流程的德州APP源码：
+
 
 | 特色模块 | 功能说明 |
 | :--- | :--- |
@@ -23,18 +35,23 @@
 | 🎮 **德州游戏** | 完整牌桌逻辑、牌型判断、保险系统 |
 | 📱 **iOS/Android** | 可上架App Store和Google Play |
 
+
 ## 🎯 功能清单 | Features
 ✅ 赛事大厅 ✅ 在线报名 ✅ 赛事管理
 ✅ 酒店预定 ✅ 订单系统 ✅ 冠军榜
 ✅ 德州牌桌 ✅ 保险系统 ✅ 战绩统计
 ✅ 商城系统 ✅ 充值系统 ✅ 客服系统
 
+
 ## 🧠 项目定位 / Project Overview
+
 
 本项目是一套完整的德州扑克游戏平台源码  
 This is a full-featured Texas Hold’em poker platform  
 
+
 支持多种玩法与系统：  
+
 
 - 现金桌 / Cash Game  
 - 锦标赛 / Tournament  
@@ -44,19 +61,25 @@ This is a full-featured Texas Hold’em poker platform
 👉 可用于商业运营  
 👉 Ready for commercial deployment  
 
+
 ---
 
+
 ## ⚙️ 核心功能 / Features
+
 
 - 实时多人对战 / Real-time multiplayer  
 - 高性能服务器架构 / High-performance server  
 - 多玩法支持 / Multiple game modes  
 - 可扩展平台 / Scalable platform  
 
+
 ## 📸 界面预览
+
 
 | 赛事大厅 | 牌桌界面 | 酒店预定 |
 | :---: | :---: | :---: |
+
 
 <img width="720" height="1280" alt="0现场赛事" src="https://github.com/user-attachments/assets/61efe09a-7ca7-46f4-8d33-3f614b7151d3" />
 <img width="720" height="1280" alt="报名" src="https://github.com/user-attachments/assets/709c2e26-c8a6-480e-8fc8-69b7c11467c9" />
@@ -66,32 +89,37 @@ This is a full-featured Texas Hold’em poker platform
 <img width="1280" height="2832" alt="9a22449af61ca7ad3f5812276c813590_720" src="https://github.com/user-attachments/assets/f878d22d-0e41-4c8a-a272-aed3f6dc64d1" />
 <img width="1280" height="2832" alt="7de0125344fca9b09579d4458230ff6a_720" src="https://github.com/user-attachments/assets/3df7f789-611e-47e7-a348-359e451d067a" />
 
+
 🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
 
-## 💰 获取源码 | Contact
 
-✅ 完整C++服务端源码  
-✅ 完整Cocos客户端源码  
-✅ 数据库脚本  
-✅ 部署文档  
+## 💰 联系 | Contact
+
+
 
 📱 **Telegram：@xuzongbin001**  
 📧 **Email：masterai918@gmail.com**
 
+
 ## 💰 Business Model
+
 
 - Poker club system  
 - Agent / affiliate system  
 - Tournament revenue  
 - In-app purchases
-- ## ✅ Production Ready
+- ## Production validation required
+
 
 - Stable server architecture  
 - Already tested in real environments  
 - Supports high concurrency  
 
-👉 **联系我获取演示站 + 详细报价**
+
+
+
 
 ---
+
 
 ⭐ Star 这个仓库，支持优质德州赛事源码持续分享！
